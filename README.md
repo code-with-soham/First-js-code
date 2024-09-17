@@ -1,5 +1,4 @@
-# First-js-code
-My first Js code on 17.09.2024. I'm Exited to dezine the world .........
+
 # ...... Javascript Basic ........
 
     *✅  Variables & Keywords 
